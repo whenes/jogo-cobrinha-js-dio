@@ -1,4 +1,4 @@
-#Jogo da cobrinha - Bootcamp Html Web Developer
+Jogo da cobrinha - Bootcamp Html Web Developer
 
 ![jogando](https://github.com/whenes/jogo-cobrinha-js-dio/blob/master/prints/jogando.jpg)
 
